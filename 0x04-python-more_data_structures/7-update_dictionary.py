@@ -1,5 +1,5 @@
-
-nary(a_dictionary, key, value):
+#!/usr/bin/python3
+def update_dictionary(a_dictionary, key, value):
     """
     a function that replaces or adds key/value in a dictionary.
     key argument will be always a string
